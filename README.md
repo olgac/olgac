@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmetvehbiolgac)
+[![Twitter Badge](https://img.shields.io/badge/twittter-blue?style=for-the-badge&logo=twitter))](https://www.twitter.com/ahmetvehbiolgac)
+[![Medium Badge](https://img.shields.io/badge/medium-green?style=for-the-badge&logo=medium)](https://medium.com/@ahmetvehbiolgac)
+
