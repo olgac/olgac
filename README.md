@@ -1,4 +1,14 @@
 ### Hi there 👋
+# Hi there, I'm [Your Name] 👋
+
+> **Head of Engineering & Software Architect** with 10+ years of experience designing scalable systems, robust applications, and automated environments. 
+
+### 🛠️ Core Expertise & Philosophy
+* **Systems Architecture:** 10+ years of building resilient, high-performance software from the ground up.
+* **Infrastructure as Code (IaC):** Treating infrastructure with the same rigor as application code—fully automated and version-controlled.
+* **GitOps Principles:** Driving continuous delivery and operational excellence by making Git the single source of truth.
+* **Engineering Leadership:** Guiding talented teams to build, deploy, and scale modern cloud-native applications.
+
 
 <!--
 **olgac/olgac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
